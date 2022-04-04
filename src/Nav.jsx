@@ -105,7 +105,7 @@ export default function PrimarySearchAppBar() {
                 <Toolbar>
                     <img style={{ borderRadius: "4px" }} height={66} src={logo} alt="Protus Logo" />
                     <Box sx={{ flexGrow: 1 }} />
-                    <Button href="https://github.com/OdidaProtas/Pro-generator" sx={{ ml: 3 }} >Github</Button>
+                    <Button href="https://github.com/OdidaProtas/ProGenerator" sx={{ ml: 3 }} >Github</Button>
                 </Toolbar>
             </AppBar>
         </Box>
