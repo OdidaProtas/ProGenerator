@@ -4,7 +4,7 @@ A tool for generating boilerplate React(Experimental) and Express TypeORM code o
 ## Visit https://pro-type-express-gen.web.app
 
 ### Before you get started
-Check out [TypeORMttps://typeorm.io) and understand how to work with entities and the entity manager
+Check out https://typeorm.io and understand how to work with entities and the entity manager
 
 Ensure you validate your models. All fields and relationships must be unique
 
