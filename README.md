@@ -47,4 +47,8 @@ Swagger docs for generated project
 
 Dedicated extensible user models and Authentication
 
+Model templates
+
+Schema preview and saving.
+
 ### Happy deployment😊
