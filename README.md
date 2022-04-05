@@ -27,14 +27,19 @@ In the root of the project, run `npm run mm` to generate migration files then ru
 
 in the root of the app, run `yarn dev` or `npm run dev`
 
-#### client add
-`cd projectName/projectNameReactApp`
+#### client app
+
+###### features Vite, React-router-dom, axios, context API state and custom hooks;
+
+`cd projectName\rojectNameReactApp`
 
 run `yarn` or `npm install`
 
-update endpoint in `src/store/axiosInstance`
+update endpoint in `src\store\axiosInstance`
 
 view `localhost:3000` in your browser
+
+Note: Dynamic views based on `src\data\data.js`
 
 ### Coming up
 
