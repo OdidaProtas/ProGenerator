@@ -27,16 +27,19 @@ In the root of the project, run `npm run mm` to generate migration files then ru
 
 in the root of the app, run `yarn dev` or `npm run dev`
 
-#### web services
+#### client add
 `cd projectName/projectNameReactApp`
+
 run `yarn` or `npm install`
+
 update endpoint in `src/store/axiosInstance`
+
 view `localhost:3000` in your browser
 
 ### Coming up
 
-Guide to using the generated client app
 Swagger docs for generated project
+
 Dedicated extensible user models and Authentication
 
 ### Happy deployment😊
